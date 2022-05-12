@@ -1,1 +1,1 @@
-# Glance-and-Focus-as-a-DL-Project
+# Glance and Focus as a DL Project
